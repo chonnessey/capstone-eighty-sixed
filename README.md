@@ -9,3 +9,5 @@
 ### 11:20 - Watching tutorial of using hooks in react
 
 ### 12:00 - Taking lunch
+
+### 1:00 - Researching Social media platform designs and watching lengthy tutorial on how to build one
