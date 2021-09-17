@@ -11,3 +11,5 @@
 ### 12:00 - Taking lunch
 
 ### 1:00 - Researching Social media platform designs and watching lengthy tutorial on how to build one
+
+### 3:00 - Trying out figma to draw up design
