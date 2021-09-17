@@ -15,3 +15,5 @@
 ### 3:00 - Trying out figma to draw up design
 
 ### 4:05 - Writing down a game plan/ pros and cons of tech stack I'm considering
+
+### 4:40 - Done for the day
