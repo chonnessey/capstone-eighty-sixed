@@ -5,3 +5,7 @@
 ### 9:30am - Researching MongoDB and Node.js
 
 ### 10:30am - Watching crash course of firebase
+
+### 11:20 - Watching tutorial of using hooks in react
+
+### 12:00 - Taking lunch
