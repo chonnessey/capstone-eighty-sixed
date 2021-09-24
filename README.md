@@ -17,3 +17,7 @@
 ### 4:05 - Writing down a game plan/ pros and cons of tech stack I'm considering
 
 ### 4:40 - Done for the day
+
+# 9/24/21
+
+### 8:15 - Following along w react/firebase tutorial
