@@ -27,3 +27,5 @@
 ### 11:30 - At the redux part of tutorial
 
 ### 12:10 - Lunch
+
+### 1:15 - Continuing with tutorial
