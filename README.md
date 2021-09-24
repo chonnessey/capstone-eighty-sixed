@@ -31,3 +31,5 @@
 ### 1:15 - Continuing with tutorial
 
 ### 2:30 - Following tutorial still and researching materialize css 
+
+### 4:45 - Done for the day
