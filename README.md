@@ -29,3 +29,5 @@
 ### 12:10 - Lunch
 
 ### 1:15 - Continuing with tutorial
+
+### 2:30 - Following tutorial still and researching materialize css 
