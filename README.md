@@ -23,3 +23,5 @@
 ### 8:15 - Following along w react/firebase tutorial
 
 ### 10:00 - Still following the tutorial. It's very lengthy but will update every hour and a half or so. On adding users/auth right now.
+
+### 11:30 - At the redux part of tutorial
