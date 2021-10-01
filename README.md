@@ -33,3 +33,7 @@
 ### 2:30 - Following tutorial still and researching materialize css 
 
 ### 4:45 - Done for the day
+
+# 10/1/21
+
+### 8:15 - Watching tutorial on Material UI. This is what I'm going to be using to style my app.
