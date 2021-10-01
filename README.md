@@ -37,3 +37,5 @@
 # 10/1/21
 
 ### 8:15 - Watching tutorial on Material UI. This is what I'm going to be using to style my app.
+
+### 10:00 - About to start coding out my app.
